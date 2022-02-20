@@ -1,6 +1,6 @@
-# School Managment System Console
+# School Managment System Console Prigrak
 
-### Simple Student and Teacher Management System written in Python
+### Simple Student and Teacher Management System written in Pythonn
 
 > - Record Grades,Classes,Students
 > - Calculate: Class Averages,Grade Averages
